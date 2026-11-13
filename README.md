@@ -1,3 +1,16 @@
+🇬🇧 **English** | 🇷🇺 [Русский](README-RU.md)
+
+[![Version](https://img.shields.io/github/v/release/teknokomo/hermes-document-platform?label=version&color=blue&sort=semver)](https://github.com/teknokomo/hermes-document-platform/releases/latest)
+[![License: Omsk Open License](https://img.shields.io/badge/license-Omsk%20Open%20License-green)](LICENSE-RU.md)
+
+![Teknokomo — 73rd Meridian](docs/assets/teknokomo-om73-en.jpg)
+
+# Important! Grave! Important!
+
+- Workers of the world, unite!
+- Proletoj el ĉiuj landoj, unuiĝu!
+- Пролетарии всех стран, соединяйтесь!
+
 # Omisa Document Platform
 
 Omisa Document Platform contains Python components for securely saving, parsing, and reading user documents in an agent gateway.
